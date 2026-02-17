@@ -69,7 +69,8 @@ This project is for demonstration purposes.
 
 ## Connect
 
-- GitHub: [https://github.com/backupp1](https://github.com/backupp1)
+- GitHub:
+- https://github.com/backupp1
 
 ---
 
