@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Places I've Been</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Places I've Been</h1>
+    <div id="places-container">
+        <!-- List of places will be displayed here -->
+    </div>
+    <form id="place-form">
+        <input type="text" id="location" placeholder="Location" required>
+        <input type="text" id="landmarks" placeholder="Landmarks (comma separated)">
+        <input type="text" id="timeOfYear" placeholder="Time of Year">
+        <textarea id="notes" placeholder="Notes"></textarea>
+        <button type="submit">Add Place</button>
+    </form>
+    <div id="place-details">
+        <!-- Details of a selected place will be displayed here -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
